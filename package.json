@@ -1,0 +1,24 @@
+{
+  "name": "saas",
+  "version": "1.0.0",
+  "description": "practice project sass\u001b\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C sass\u001b[D\u001b[D\u001b[S",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass --watch sass:assets/css"
+  },
+  "keywords": [
+    "Bootstrap",
+    "Sass"
+  ],
+  "author": "Shahab Ali",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.39.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "autoprefixer": "^10.3.4",
+    "bootstrap": "^5.1.0",
+    "postcss-cli": "^8.3.1"
+  }
+}
